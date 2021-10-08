@@ -1,0 +1,20 @@
+body{
+    color:white;
+    background-size:cover;
+}
+.test_image{
+    background-color: rgb(255, 8, 193);
+    border-radius: 25px;
+    padding: 20px;
+}
+img{
+    width:300px;
+    height:250px;
+    border-radius: 25px;
+}
+.test_image1{
+    background-color: rgb(8, 185, 255);
+    border-radius: 25px;
+    padding: 20px;
+    
+}
